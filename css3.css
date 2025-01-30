@@ -1,0 +1,14 @@
+.box {
+    width: 250pt;
+    height: 250px;
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    border: 2px solid black;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 100px;
+
+}
